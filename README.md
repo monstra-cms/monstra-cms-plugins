@@ -9,3 +9,4 @@
 | Yandex Map | Yandex Map plugin for Monstra based on Yandex API | JINN | [ru](http://ru.forum.monstra.org/topic/207/yandeks-karta/) |
 | FotoStok | Powerfull gallery plugin for Monstra | Faust | [ru](http://ru.forum.monstra.org/topic/425/fotostok-rabota-s-izobrazheniyami-i-ikh-publikatsiya-versiya-132/) |
 | MultiStok | Another powerfull gallery plugin for Monstra | AlxBuk | [ru](http://ru.forum.monstra.org/topic/546/multistok/) |
+| Gallery | Another gallery plugin (on [Dev Plugin ru](http://ru.forum.monstra.org/topic/376/reliz-plagin-dev-dlya-razrabotchikov/)) | KANekT |[ru](http://ru.forum.monstra.org/topic/396/reliz-gallery/) |
