@@ -16,7 +16,7 @@
 || **Catalog plugin** |||
 | Catalog | Product Catalog | KANekT | [ru](http://ru.forum.monstra.org/topic/398/reliz-katalog-produktsii/) |
 | Catalog  |  Product Catalog | sergeyterr  | [ru](http://ru.forum.monstra.org/topic/509/katalog/)  |
-|| Media plugin |||
+|| **Media plugin** |||
 | Youtube | Youtube embed | [Awilum](http://awilum.monstra.org) | [ru](http://ru.forum.monstra.org/topic/53/youtube/) |
 | Video JS | Video embed | [Awilum](http://awilum.monstra.org) | [ru](http://ru.forum.monstra.org/topic/12/videojs/)|
 || **Other plugin** |||
