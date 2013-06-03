@@ -9,9 +9,9 @@
 | Multilevel Menu | Multilevel Menu plugin for Monstra | Faust | [ru](http://ru.forum.monstra.org/topic/333/mnogourovnevoe-sfmenyu-versiya-112-05032013/) |
 | Yandex Map | Yandex Map plugin for Monstra based on Yandex API | JINN | [ru](http://ru.forum.monstra.org/topic/207/yandeks-karta/) |
 || **Gallery plugin** |||
-| FotoStok+ | Powerfull gallery plugin for Monstra | Faust | [ru](http://ru.forum.monstra.org/topic/425/fotostok-rabota-s-izobrazheniyami-i-ikh-publikatsiya-versiya-132/) |
-| MultiStok | Another powerfull gallery plugin for Monstra | AlxBuk | [ru](http://ru.forum.monstra.org/topic/546/multistok/) |
-| EPGaller | Embed Picasa Gallery (SlimBox) | AlxBuk | [ru](http://ru.forum.monstra.org/topic/548/epgallery-vstroennaya-picasa-galereya/) |
+| FotoStock+ | Powerfull gallery plugin for Monstra | Faust | [ru](http://ru.forum.monstra.org/topic/425/fotostok-rabota-s-izobrazheniyami-i-ikh-publikatsiya-versiya-132/) |
+| MultiStock | Another powerfull gallery plugin for Monstra | AlxBuk | [ru](http://ru.forum.monstra.org/topic/546/multistok/) |
+| EPGallery | Embed Picasa Gallery (SlimBox) | AlxBuk | [ru](http://ru.forum.monstra.org/topic/548/epgallery-vstroennaya-picasa-galereya/) |
 | Gallery | Another gallery plugin (require [Dev Plugin ru](http://ru.forum.monstra.org/topic/376/reliz-plagin-dev-dlya-razrabotchikov/)) | KANekT |[ru](http://ru.forum.monstra.org/topic/396/reliz-gallery/) |
 || **Catalog plugin** |||
 | Catalog | Product Catalog | KANekT | [ru](http://ru.forum.monstra.org/topic/398/reliz-katalog-produktsii/) |
@@ -24,7 +24,7 @@
 | Tiny Link | Minimize Link | [Awilum](http://awilum.monstra.org) | [ru](http://ru.forum.monstra.org/topic/54/tiny/)|
 | Dev Plugin | Plugin for Monstra developer | KANekT | [ru](http://ru.forum.monstra.org/topic/376/reliz-plagin-dev-dlya-razrabotchikov/)|
 || **QR Code plugin** |||
-| QR Code vCard | Generator QR Code for link | AlxBuk | [ru](http://ru.forum.monstra.org/topic/567/qr-code-generator-vcard/)|
+| QR Code vCard | Generator QR Code for vCard | AlxBuk | [ru](http://ru.forum.monstra.org/topic/567/qr-code-generator-vcard/)|
 | QR Code Link | Generator QR Code for link | Hmelex | [ru](http://ru.forum.monstra.org/topic/249/plagin-qr-kod-s-dvumya-versiyami-mini-i-pro/)|
 || **Blocks plugin** |||
 | Secured block | Data for authorized users  | Genry  | [ru](http://ru.forum.monstra.org/topic/515/secured-block-sblock-pokaz-bloka-tolko-avtorizovannym/) |
