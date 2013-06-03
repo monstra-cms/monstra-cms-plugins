@@ -31,6 +31,6 @@
 | Spoiler | Simple spoiler  | newbie  | [ru](http://ru.forum.monstra.org/topic/212/spoiler/) |
 || **Representation Data plugin** |||
 | GitHub Gists | Insert GitHub gists | [Awilum](http://awilum.monstra.org) | [ru](http://ru.forum.monstra.org/topic/88/github-gists/)|
-| Charts | Google Charts | [Awilum](http://awilum.monstra.org)  | [ru](http://ru.forum.monstra.org/topic/55/charts/)  |
+| Charts | Google Charts | [Awilum](http://awilum.monstra.org)  | [en](http://forum.monstra.org/topic/56/charts/) [ru](http://ru.forum.monstra.org/topic/55/charts/) |
 | Table From CSV  | Simple table from CSV file  | KANekT  | [ru](http://ru.forum.monstra.org/topic/185/reliz-table-from-csv/)  |
 | Variables | Output static data | ravilr | [ru](http://ru.forum.monstra.org/topic/569/variables-plagin-statichnykh-dannykh/) |
