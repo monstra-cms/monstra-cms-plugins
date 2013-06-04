@@ -30,6 +30,7 @@
 | Secured block | Data for authorized users  | Genry  | [ru](http://ru.forum.monstra.org/topic/515/secured-block-sblock-pokaz-bloka-tolko-avtorizovannym/) |
 | Spoiler | Simple spoiler  | newbie  | [ru](http://ru.forum.monstra.org/topic/212/spoiler/) |
 || **Representation Data plugin** |||
+| Ignite | Ignite plugin add ability to embed Ignite code. | [Awilum](http://awilum.monstra.org) | [en](http://forum.monstra.org/topic/134/ignite/) |
 | Math | Math plugin. | [Awilum](http://awilum.monstra.org) | [en](http://forum.monstra.org/topic/58/math/) |
 | GitHub Gists | Plugin add ability to embed GitHub Gists. | [Awilum](http://awilum.monstra.org) | [en](http://forum.monstra.org/topic/122/github-gists/)  [ru](http://ru.forum.monstra.org/topic/88/github-gists/)|
 | Charts | Google Charts | [Awilum](http://awilum.monstra.org)  | [en](http://forum.monstra.org/topic/56/charts/) [ru](http://ru.forum.monstra.org/topic/55/charts/) |
