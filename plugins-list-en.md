@@ -20,7 +20,7 @@
 | Youtube | Youtube embed | [Awilum](http://awilum.monstra.org) | [ru](http://ru.forum.monstra.org/topic/53/youtube/) |
 | Video JS | Video embed | [Awilum](http://awilum.monstra.org) | [ru](http://ru.forum.monstra.org/topic/12/videojs/)|
 || **Other plugin** |||
-| Switch | Theme Switch plugin. | [Awilum](http://awilum.monstra.org) | [en](http://forum.monstra.org/topic/379/switch/) |
+| Switch | Theme Switch plugin. | [nakome]() | [en](http://forum.monstra.org/topic/379/switch/) |
 | Star Rating | Rating page | [Awilum](http://awilum.monstra.org) | [ru](http://ru.forum.monstra.org/topic/87/reiting/) |
 | Tiny Link | Minimize Link | [Awilum](http://awilum.monstra.org) | [ru](http://ru.forum.monstra.org/topic/54/tiny/)|
 | Dev Plugin | Plugin for Monstra developer | KANekT | [ru](http://ru.forum.monstra.org/topic/376/reliz-plagin-dev-dlya-razrabotchikov/)|
