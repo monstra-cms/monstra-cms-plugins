@@ -24,6 +24,7 @@
 | Star Rating | Rating page | [Awilum](http://awilum.monstra.org) | [ru](http://ru.forum.monstra.org/topic/87/reiting/) |
 | Tiny Link | Minimize Link | [Awilum](http://awilum.monstra.org) | [ru](http://ru.forum.monstra.org/topic/54/tiny/)|
 | Dev Plugin | Plugin for Monstra developer | KANekT | [ru](http://ru.forum.monstra.org/topic/376/reliz-plagin-dev-dlya-razrabotchikov/)|
+| jQuery | jQuery Plugin for Monstra Sites | [Awilum](http://awilum.monstra.org) | [en](http://forum.monstra.org/topic/6/jquery/) [ru](http://ru.forum.monstra.org/topic/8/jquery/) |
 || **QR Code plugin** |||
 | QR Code vCard | Generator QR Code for vCard | AlxBuk | [ru](http://ru.forum.monstra.org/topic/567/qr-code-generator-vcard/)|
 | QR Code Link | Generator QR Code for link | Hmelex | [ru](http://ru.forum.monstra.org/topic/249/plagin-qr-kod-s-dvumya-versiyami-mini-i-pro/)|
