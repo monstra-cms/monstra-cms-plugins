@@ -41,4 +41,4 @@
 | Background | Background plugin | nakome | [en](http://forum.monstra.org/topic/197/background-plugin-wordpress-clone/) |
 | Background Video | Background Video plugin | nakome | [en](http://forum.monstra.org/topic/267/background-video/) |
 | Twitter RSS | Twitter RSS plugin | nakome | [en](http://forum.monstra.org/topic/131/twitter-rss/) |
-
+| Disqus | Disqus plugin | nakome | [en](http://forum.monstra.org/topic/196/disqus-comments/) |
