@@ -8,6 +8,8 @@
 | News | News plugin | KANEKT | [ru](http://ru.forum.monstra.org/topic/198/reliz-news/) |
 | Multilevel Menu | Multilevel Menu plugin for Monstra | Faust | [ru](http://ru.forum.monstra.org/topic/333/mnogourovnevoe-sfmenyu-versiya-112-05032013/) |
 | Yandex Map | Yandex Map plugin for Monstra based on Yandex API | JINN | [ru](http://ru.forum.monstra.org/topic/207/yandeks-karta/) |
+| Questions | Questions plugin | JINN | [ru](http://monstra.promo360.ru/plugin/question) |
+| Reviews | Reviews plugin | JINN | [ru](http://monstra.promo360.ru/plugin/reviews) |
 || **Gallery plugins** |||
 | FotoStock+ | Powerfull gallery plugin for Monstra | Faust | [ru](http://ru.forum.monstra.org/topic/425/fotostok-rabota-s-izobrazheniyami-i-ikh-publikatsiya-versiya-132/) |
 | MultiStock | Another powerfull gallery plugin for Monstra | AlxBuk | [ru](http://ru.forum.monstra.org/topic/546/multistok/) |
