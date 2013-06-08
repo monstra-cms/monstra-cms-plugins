@@ -32,8 +32,13 @@
 | Charts | Google Charts | [Awilum](http://awilum.monstra.org)  | [en](http://forum.monstra.org/topic/56/charts/) [ru](http://ru.forum.monstra.org/topic/55/charts/) |
 | Table From CSV  | Simple table from CSV file  | KANekT  | [ru](http://ru.forum.monstra.org/topic/185/reliz-table-from-csv/)  |
 | Variables | Output static data | ravilr | [ru](http://ru.forum.monstra.org/topic/569/variables-plagin-statichnykh-dannykh/) |
+|| **Editors** |||
+| Cleditor + Kcfinder | Cleditor + Kcfinder plugin. | [Awilum](http://awilum.monstra.org) | [en](http://forum.monstra.org/topic/23/cleditor-kcfinder/) |
+| CKEditor | CKEditor plugin. | Chrisblue | [en](http://forum.monstra.org/topic/300/ckeditor/) |
+| TinyMCE + KCFinder | TinyMCE + KCFinder plugin. | [Awilum](http://awilum.monstra.org) | [en](http://forum.monstra.org/topic/123/tinymce-kcfinder/) |
+| Bootstrap editor | Bootstrap editor plugin. | nakome | [en](http://forum.monstra.org/topic/198/bootstrap-editor-eight-languages/) |
 || **Other plugins** |||
-| Switch | Theme Switch plugin. | [nakome]() | [en](http://forum.monstra.org/topic/379/switch/) |
+| Switch | Theme Switch plugin. | nakome | [en](http://forum.monstra.org/topic/379/switch/) |
 | Star Rating | Rating page | [Awilum](http://awilum.monstra.org) | [ru](http://ru.forum.monstra.org/topic/87/reiting/) |
 | Tiny Link | Minimize Link | [Awilum](http://awilum.monstra.org) | [ru](http://ru.forum.monstra.org/topic/54/tiny/)|
 | Dev Plugin | Plugin for Monstra developer | KANekT | [ru](http://ru.forum.monstra.org/topic/376/reliz-plagin-dev-dlya-razrabotchikov/)|
