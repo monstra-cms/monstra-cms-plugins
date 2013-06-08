@@ -39,3 +39,6 @@
 | Dev Plugin | Plugin for Monstra developer | KANekT | [ru](http://ru.forum.monstra.org/topic/376/reliz-plagin-dev-dlya-razrabotchikov/)|
 | jQuery | jQuery Plugin for Monstra Sites | [Awilum](http://awilum.monstra.org) | [en](http://forum.monstra.org/topic/6/jquery/) [ru](http://ru.forum.monstra.org/topic/8/jquery/) |
 | Background | Background plugin | nakome | [en](http://forum.monstra.org/topic/197/background-plugin-wordpress-clone/) |
+| Background Video | Background Video plugin | nakome | [en](http://forum.monstra.org/topic/267/background-video/) |
+| Twitter RSS | Twitter RSS plugin | nakome | [en](http://forum.monstra.org/topic/131/twitter-rss/) |
+
