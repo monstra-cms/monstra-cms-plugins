@@ -19,12 +19,6 @@
 || **Media plugin** |||
 | Youtube | Youtube embed | [Awilum](http://awilum.monstra.org) | [ru](http://ru.forum.monstra.org/topic/53/youtube/) |
 | Video JS | Video embed | [Awilum](http://awilum.monstra.org) | [ru](http://ru.forum.monstra.org/topic/12/videojs/)|
-|| **Other plugin** |||
-| Switch | Theme Switch plugin. | [nakome]() | [en](http://forum.monstra.org/topic/379/switch/) |
-| Star Rating | Rating page | [Awilum](http://awilum.monstra.org) | [ru](http://ru.forum.monstra.org/topic/87/reiting/) |
-| Tiny Link | Minimize Link | [Awilum](http://awilum.monstra.org) | [ru](http://ru.forum.monstra.org/topic/54/tiny/)|
-| Dev Plugin | Plugin for Monstra developer | KANekT | [ru](http://ru.forum.monstra.org/topic/376/reliz-plagin-dev-dlya-razrabotchikov/)|
-| jQuery | jQuery Plugin for Monstra Sites | [Awilum](http://awilum.monstra.org) | [en](http://forum.monstra.org/topic/6/jquery/) [ru](http://ru.forum.monstra.org/topic/8/jquery/) |
 || **QR Code plugin** |||
 | QR Code vCard | Generator QR Code for vCard | AlxBuk | [ru](http://ru.forum.monstra.org/topic/567/qr-code-generator-vcard/)|
 | QR Code Link | Generator QR Code for link | Hmelex | [ru](http://ru.forum.monstra.org/topic/249/plagin-qr-kod-s-dvumya-versiyami-mini-i-pro/)|
@@ -38,3 +32,10 @@
 | Charts | Google Charts | [Awilum](http://awilum.monstra.org)  | [en](http://forum.monstra.org/topic/56/charts/) [ru](http://ru.forum.monstra.org/topic/55/charts/) |
 | Table From CSV  | Simple table from CSV file  | KANekT  | [ru](http://ru.forum.monstra.org/topic/185/reliz-table-from-csv/)  |
 | Variables | Output static data | ravilr | [ru](http://ru.forum.monstra.org/topic/569/variables-plagin-statichnykh-dannykh/) |
+|| **Other plugin** |||
+| Switch | Theme Switch plugin. | [nakome]() | [en](http://forum.monstra.org/topic/379/switch/) |
+| Star Rating | Rating page | [Awilum](http://awilum.monstra.org) | [ru](http://ru.forum.monstra.org/topic/87/reiting/) |
+| Tiny Link | Minimize Link | [Awilum](http://awilum.monstra.org) | [ru](http://ru.forum.monstra.org/topic/54/tiny/)|
+| Dev Plugin | Plugin for Monstra developer | KANekT | [ru](http://ru.forum.monstra.org/topic/376/reliz-plagin-dev-dlya-razrabotchikov/)|
+| jQuery | jQuery Plugin for Monstra Sites | [Awilum](http://awilum.monstra.org) | [en](http://forum.monstra.org/topic/6/jquery/) [ru](http://ru.forum.monstra.org/topic/8/jquery/) |
+| Background | Background plugin | [nakome] | [en](http://forum.monstra.org/topic/197/background-plugin-wordpress-clone/) |
