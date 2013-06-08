@@ -31,7 +31,7 @@
 | GitHub Gists | Plugin add ability to embed GitHub Gists. | [Awilum](http://awilum.monstra.org) | [en](http://forum.monstra.org/topic/122/github-gists/)  [ru](http://ru.forum.monstra.org/topic/88/github-gists/)|
 | Charts | Google Charts | [Awilum](http://awilum.monstra.org)  | [en](http://forum.monstra.org/topic/56/charts/) [ru](http://ru.forum.monstra.org/topic/55/charts/) |
 | Table From CSV  | Simple table from CSV file  | KANekT  | [ru](http://ru.forum.monstra.org/topic/185/reliz-table-from-csv/)  |
-| Variables | Output static data | ravilr | [ru](http://ru.forum.monstra.org/topic/569/variables-plagin-statichnykh-dannykh/) |
+| Variables | Plugin for storing and rendering static data. | ravilr | [ru](http://ru.forum.monstra.org/topic/569/variables-plagin-statichnykh-dannykh/) |
 || **Editors** |||
 | Cleditor + Kcfinder | Cleditor + Kcfinder plugin. | [Awilum](http://awilum.monstra.org) | [en](http://forum.monstra.org/topic/23/cleditor-kcfinder/) |
 | CKEditor | CKEditor plugin. | Chrisblue | [en](http://forum.monstra.org/topic/300/ckeditor/) |
@@ -47,3 +47,5 @@
 | Background Video | Background Video plugin | nakome | [en](http://forum.monstra.org/topic/267/background-video/) |
 | Twitter RSS | Twitter RSS plugin | nakome | [en](http://forum.monstra.org/topic/131/twitter-rss/) |
 | Disqus | Disqus plugin | nakome | [en](http://forum.monstra.org/topic/196/disqus-comments/) |
+| Blog Post Navigation | Blog Post Navigation for Monstra CMS. | Aryandhani | [en](http://forum.monstra.org/topic/360/blog-post-navigation/) |
+| Let It Snow | Let It Snow plugin. | [Awilum](http://awilum.monstra.org) | [ru](http://ru.forum.monstra.org/topic/289/let-it-snow/) |
