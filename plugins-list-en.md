@@ -21,7 +21,7 @@
 | Switch | Theme Switch plugin. | nakome | [en](http://forum.monstra.org/topic/379/switch/) |
 | Star Rating | Rating page | [Awilum](http://awilum.monstra.org) | [en](http://forum.monstra.org/topic/119/star-rating/) |
 | Tiny Link | Minimize Link | [Awilum](http://awilum.monstra.org) | [en](http://forum.monstra.org/topic/55/tiny/)|
-| jQuery | jQuery Plugin for Monstra Sites | [Awilum](http://awilum.monstra.org) | [en](http://forum.monstra.org/topic/6/jquery/) [ru](http://ru.forum.monstra.org/topic/8/jquery/) |
+| jQuery | jQuery Plugin for Monstra Sites | [Awilum](http://awilum.monstra.org) | [en](http://forum.monstra.org/topic/6/jquery/) |
 | Background | Background plugin | nakome | [en](http://forum.monstra.org/topic/197/background-plugin-wordpress-clone/) |
 | Background Video | Background Video plugin | nakome | [en](http://forum.monstra.org/topic/267/background-video/) |
 | Twitter RSS | Twitter RSS plugin | nakome | [en](http://forum.monstra.org/topic/131/twitter-rss/) |
