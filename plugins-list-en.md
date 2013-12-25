@@ -27,4 +27,4 @@
 | Twitter RSS | Twitter RSS plugin | nakome | [en](http://forum.monstra.org/topic/131/twitter-rss/) |
 | Disqus | Disqus plugin | nakome | [en](http://forum.monstra.org/topic/196/disqus-comments/) |
 | Blog Post Navigation | Blog Post Navigation for Monstra CMS. | Aryandhani | [en](http://forum.monstra.org/topic/360/blog-post-navigation/) |
-| Let It Snow | Let It Snow plugin. | [Awilum](http://awilum.monstra.org) | [ru](http://ru.forum.monstra.org/topic/289/let-it-snow/) |
+| Let It Snow | Let It Snow plugin. | [Awilum](http://awilum.monstra.org) | [en](http://forum.monstra.org/topic/440/let-it-snow/) |
