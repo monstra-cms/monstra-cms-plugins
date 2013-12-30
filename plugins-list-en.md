@@ -8,6 +8,7 @@
 | Youtube | Youtube embed | [Awilum](http://awilum.monstra.org) | [link](http://forum.monstra.org/topic/57/youtube/) |
 | Video JS | Video embed | [Awilum](http://awilum.monstra.org) | [link](http://forum.monstra.org/topic/9/videojs/)|
 || **Representation Data plugins** |||
+| CodeMirror | CodeMirror is a versatile text editor implemented in JavaScript for the browser.  | [Awilum](http://awilum.monstra.org) | [link](http://forum.monstra.org/topic/481/codemirror/) |
 | Ignite | Ignite plugin add ability to embed Ignite code. | [Awilum](http://awilum.monstra.org) | [link](http://forum.monstra.org/topic/134/ignite/) |
 | Math | Math plugin. | [Awilum](http://awilum.monstra.org) | [link](http://forum.monstra.org/topic/58/math/) |
 | GitHub Gists | Plugin add ability to embed GitHub Gists. | [Awilum](http://awilum.monstra.org) | [link](http://forum.monstra.org/topic/122/github-gists/) |
