@@ -18,6 +18,7 @@
 | CKEditor | CKEditor plugin. | Chrisblue | [link](http://forum.monstra.org/topic/300/ckeditor/) |
 | TinyMCE + KCFinder | TinyMCE + KCFinder plugin. | [Awilum](http://awilum.monstra.org) | [link](http://forum.monstra.org/topic/123/tinymce-kcfinder/) |
 | Bootstrap editor | Bootstrap editor plugin. | nakome | [link](http://forum.monstra.org/topic/198/bootstrap-editor-eight-languages/) |
+| Summernote | Summernote is a Super Simple WYSIWYG Editor on Bootstrap. | [stradfred](http://awilum.monstra.org) | [link](http://forum.monstra.org/topic/487/editor-summernote/) |
 || **Other plugins** |||
 | Switch | Theme Switch plugin. | nakome | [link](http://forum.monstra.org/topic/379/switch/) |
 | Star Rating | Rating page | [Awilum](http://awilum.monstra.org) | [link](http://forum.monstra.org/topic/119/star-rating/) |
