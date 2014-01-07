@@ -29,7 +29,7 @@
 | QR Code Link | Генератор QR кода для ссылок | Hmelex | [ru](http://ru.forum.monstra.org/topic/249/plagin-qr-kod-s-dvumya-versiyami-mini-i-pro/)|
 || **Блоки** |||
 | Secured block | Блок только для авторизованных пользователей  | Genry  | [ru](http://ru.forum.monstra.org/topic/515/secured-block-sblock-pokaz-bloka-tolko-avtorizovannym/) |
-| Spoiler | Простой спойлер  | newbie  | [ru](http://ru.forum.monstra.org/topic/212/spoiler/) |
+| Spoiler | Простой спойлер  | JINN  | [ru](http://ru.forum.monstra.org/topic/212/spoiler/) |
 || **Представление данных** |||
 | Ignite | Встраивание Ignite(PHP) кода | [Awilum](http://awilum.monstra.org) | [en](http://forum.monstra.org/topic/134/ignite/) |
 | Math | Math разметка | [Awilum](http://awilum.monstra.org) | [en](http://forum.monstra.org/topic/58/math/) |
