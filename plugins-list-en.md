@@ -1,3 +1,4 @@
+|||||
 | -----|-------------|-----|-----|
 | Contact | Contact form plugin for Monstra | [Awilum](http://awilum.monstra.org) | [link](http://forum.monstra.org/topic/8/contact/) |
 | Blog | Simple blog plugin for Monstra | [Awilum](http://awilum.monstra.org) | [link](http://forum.monstra.org/topic/171/blog/) |
