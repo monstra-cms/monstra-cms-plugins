@@ -1,8 +1,8 @@
 |||||
 | -----|-------------|-----|-----|
-| Contact | Contact form plugin for Monstra |[link](http://forum.monstra.org/topic/8/contact/) | [Awilum](http://awilum.monstra.org) |
-| Blog | Simple blog plugin for Monstra | [Awilum](http://awilum.monstra.org) | [link](http://forum.monstra.org/topic/171/blog/) |
-| Guestbook | Guestbook plugin | [Awilum](http://awilum.monstra.org) | [link](http://forum.monstra.org/topic/11/guestbook/) |
+| Contact | Contact form plugin for Monstra |[Download](http://forum.monstra.org/topic/8/contact/) | [Awilum](http://awilum.monstra.org) |
+| Blog | Simple blog plugin for Monstra | [Download](http://forum.monstra.org/topic/171/blog/) |[Awilum](http://awilum.monstra.org)|
+| Guestbook | Guestbook plugin | [Download](http://forum.monstra.org/topic/11/guestbook/) | [Awilum](http://awilum.monstra.org)|
 | Youtube | Youtube embed | [Awilum](http://awilum.monstra.org) | [link](http://forum.monstra.org/topic/57/youtube/) |
 | Video JS | Video embed | [Awilum](http://awilum.monstra.org) | [link](http://forum.monstra.org/topic/9/videojs/)|
 | CodeMirror | CodeMirror is a versatile text editor implemented in JavaScript for the browser.  | [Awilum](http://awilum.monstra.org) | [link](http://forum.monstra.org/topic/481/codemirror/) |
