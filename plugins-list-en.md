@@ -1,6 +1,6 @@
 |||||
 | -----|-------------|-----|-----|
-| Contact | Contact form plugin for Monstra | [Awilum](http://awilum.monstra.org) | [link](http://forum.monstra.org/topic/8/contact/) |
+| Contact | Contact form plugin for Monstra |[link](http://forum.monstra.org/topic/8/contact/) | [Awilum](http://awilum.monstra.org) |
 | Blog | Simple blog plugin for Monstra | [Awilum](http://awilum.monstra.org) | [link](http://forum.monstra.org/topic/171/blog/) |
 | Guestbook | Guestbook plugin | [Awilum](http://awilum.monstra.org) | [link](http://forum.monstra.org/topic/11/guestbook/) |
 | Youtube | Youtube embed | [Awilum](http://awilum.monstra.org) | [link](http://forum.monstra.org/topic/57/youtube/) |
