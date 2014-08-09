@@ -8,7 +8,7 @@
 | CodeMirror | CodeMirror is a versatile text editor implemented in JavaScript for the browser.  | [Download](http://forum.monstra.org/topic/481/codemirror/) | [Awilum](http://awilum.monstra.org) |
 | Ignite | Ignite plugin add ability to embed Ignite code. | [Download](http://forum.monstra.org/topic/134/ignite/) | [Awilum](http://awilum.monstra.org) |
 | Math | Math plugin. | [Download](http://forum.monstra.org/topic/58/math/)|[Awilum](http://awilum.monstra.org)|
-| GitHub Gists | Plugin add ability to embed GitHub Gists. | [Awilum](http://awilum.monstra.org) | [Download](http://forum.monstra.org/topic/122/github-gists/) |
+| GitHub Gists | Plugin add ability to embed GitHub Gists. | [Download](http://forum.monstra.org/topic/122/github-gists/)  | [Awilum](http://awilum.monstra.org)|
 | Charts | Google Charts | [Download](http://forum.monstra.org/topic/56/charts/) | [Awilum](http://awilum.monstra.org) |
 | Cleditor + Kcfinder | Cleditor + Kcfinder plugin. | [Download](http://forum.monstra.org/topic/23/cleditor-kcfinder/)| [Awilum](http://awilum.monstra.org)|
 | CKEditor | CKEditor plugin. | Chrisblue | [Download](http://forum.monstra.org/topic/300/ckeditor/) |
