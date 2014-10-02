@@ -10,7 +10,7 @@
 | GitHub Gists | Plugin add ability to embed GitHub Gists. | [Download](http://forum.monstra.org/topic/122/github-gists/)  | [Awilum](http://awilum.monstra.org)|
 | Charts | Google Charts | [Download](http://forum.monstra.org/topic/56/charts/) | [Awilum](http://awilum.monstra.org) |
 | Cleditor + Kcfinder | Cleditor + Kcfinder plugin. | [Download](http://forum.monstra.org/topic/23/cleditor-kcfinder/)| [Awilum](http://awilum.monstra.org)|
-| CKEditor | CKEditor plugin. | Chrisblue | [Download](http://forum.monstra.org/topic/300/ckeditor/) |
+| CKEditor | CKEditor plugin. | [Download](http://forum.monstra.org/topic/300/ckeditor/) | Chrisblue |
 | TinyMCE + KCFinder | TinyMCE + KCFinder plugin. | [Download](http://forum.monstra.org/topic/123/tinymce-kcfinder/) | [Awilum](http://awilum.monstra.org)|
 | Bootstrap editor | Bootstrap editor plugin. | [Download](http://forum.monstra.org/topic/198/bootstrap-editor-eight-languages/) | nakome |
 | Summernote | Summernote is a Super Simple WYSIWYG Editor on Bootstrap. |[Download](http://forum.monstra.org/topic/487/editor-summernote/) | [stradfred](http://awilum.monstra.org)|
