@@ -24,3 +24,5 @@
 | Disqus | Disqus plugin | [Download](http://forum.monstra.org/topic/196/disqus-comments/) | nakome |
 | Blog Post Navigation | Blog Post Navigation for Monstra CMS. | [Download](http://forum.monstra.org/topic/360/blog-post-navigation/)  | Aryandhani |
 | Let It Snow | Let It Snow plugin. | [Download](http://forum.monstra.org/topic/440/let-it-snow/)| [Awilum](http://awilum.monstra.org) |
+| MonstraHost Slider | Implementation by @monstrahost of [Super Simple Slider](http://supersimpleslider.com) by @intllgnt | [Download](http://slider.monstrahost.com) | @monstrahost | 
+| Ace Code Editor | Ace is an embeddable text editor implemented in Javascript and made and shared by [Cloud9](https://ace.c9.io/#nav=about). It has been adapted for monstra by @monstrahost. It is a replacement for Admin area code editors like codemirror. | [Download](http://ace.monstrahost.com) | @monstrahost | 
