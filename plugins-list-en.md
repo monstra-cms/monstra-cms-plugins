@@ -27,3 +27,4 @@
 | MonstraHost Slider | Implementation by @monstrahost of [Super Simple Slider](http://supersimpleslider.com) by @intllgnt | [Download](http://slider.monstrahost.com) | @monstrahost | 
 | Ace Code Editor | Ace is an embeddable text editor implemented in Javascript and made and shared by [Cloud9](https://ace.c9.io/#nav=about). It has been adapted for monstra by @monstrahost. It is a replacement for Admin area code editors like codemirror. | [Download](http://ace.monstrahost.com) | @monstrahost | 
 | GithubRepo | With this plugin you can show list of all your repositories on your website. | [Download](http://forum.monstra.org/topic/863/githubrepo-plugin/)| [Raiper34](http://raiper34.net)
+| Toggle | Toggle content plugin, to slide-toggle text on click. | [Download](https://github.com/devmount-monstra/toggle)| [devmount](https://github.com/devmount) |
